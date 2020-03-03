@@ -1,0 +1,249 @@
+ 	Abarrotes
+Enlatados
+Lacteos
+Botanas
+Harinas
+Frutas y Verduras
+Bebidas
+Bebidas Alcoholicas
+Carnes Embutidos
+Automedicacion
+Higiene Personal
+Uso Dometico
+Jarceria
+Otros
+
+ENUM('Abarrotes','Enlatados','Lacteos','Botanas','Harinas','FrutasyVerduras','Bebidas','BebidasAlcoholicas','CarnesEmbutidos','Automedicacion','HigienePersonal','UsoDometico','Jarceria','Otros')
+
+
+
+ABARROTES:
+Aceite comestibles
+Aderezos
+Consome
+Crema de cacahuate
+Crema para café
+Pure de tomate
+Alimento para bebe
+Alimento para mascotas
+Atole
+Avena
+Azúcar
+Café
+Cereales
+Chile piquín
+Especias
+Flan en polvo
+Formulas infantiles
+Gelatinas en polvo/Grenetina
+Harina
+Harina preparada
+Mole
+Sal
+Salsas envasadas
+Sazonadores
+Sopas en sobre
+Cajeta
+Catsup
+Mayonesa
+Mermelada
+Miel
+Te
+Vinagre
+Huevo
+Pastas
+ENLATADOS:
+Aceitunas
+Champiñones enteros/rebanados
+Chícharo con zanahoria
+Chícharos enlatados
+Frijoles enlatados
+Frutas en almíbar
+Sardinas
+Atún en agua/aceite
+Chiles enlatados
+Chiles envasados
+Ensaladas enlatadas
+Granos de elote enlatados
+Sopa en lata
+Vegetales en conserva
+LÁCTEOS:
+Leche condesada
+Leche deslactosada
+Leche en polvo
+Leche evaporada
+Leche light
+Leche pasteurizada
+Leche saborizada
+Leche semidescremada
+Crema
+Yoghurt
+Mantequilla
+Margarina
+Media crema
+Queso
+BOTANAS:
+Papa
+Palomitas
+Frituras de maíz
+Cacahuates
+Botanas saladas
+Barras alimenticias
+Nueces y semillas
+CONFITERÍA:
+Caramelos
+Dulces enchilados
+Chocolate de mesa
+Chocolate en polvo
+Chocolates
+Gomas de mascar
+Mazapán
+Malvaviscos
+Pulpa de tamarindo
+Pastillas de dulce
+Paletas de dulce
+HARINAS:
+Tortillas de harina/maíz
+Galletas dulces
+Galletas saladas
+Pastelillos
+Pan de caja
+Pan dulce
+Pan molido
+Pan tostado
+20140513_135313FRUTAS Y VERDURAS:
+Aguacates
+Ajos
+Cebollas
+Chiles
+Cilantro/Perejil
+Jitomate
+Papas
+Limones
+Manzanas
+Naranjas
+Plátanos
+BEBIDAS:
+Agua mineral
+Agua natural
+Agua saborizada
+Jarabes
+Jugos/Néctares
+Naranjadas
+Bebidas de soya
+Bebidas en polvo
+Bebidas infantiles
+Bebidas isotónicas
+Energetizantes
+Isotónicos
+Refrescos
+BEBIDAS ALCOHÓLICAS:
+Bebidas preparadas
+Cerveza
+Anís
+Brandy
+Ginebra
+Cordiales
+Mezcal
+Jerez
+Ron
+Tequila
+Sidra
+Whiskey
+Vodka
+ALIMENTOS PREPARADOS:
+Pastas listas para comer
+Sopas en vaso
+Carnes y Embudos
+Salchicha
+Mortadela
+Tocino
+Jamón
+Manteca
+Chorizo
+Carne de puerco/res/pollo
+AUTOMEDICACIÓN:
+Suero
+Agua oxigenada
+Preservativos
+Alcohol
+Gasas
+Analgésicos
+Antigripales
+Antiácidos
+HIGIENE PERSONAL:
+Toallas húmedas
+Aceite para bebe
+Toallas femeninas
+Algodón
+Tinte para el cabello
+Biberones
+Talco
+Cepillo de dientes
+Shampoo/ Acondicionador
+Cotonetes
+Rastrillos
+Crema corporal/facial
+Papel higiénico
+Crema para afeitar
+Pañuelos faciales
+Dentífricos
+Pañuelos desechables
+Desodorantes en barra/aerosol
+Maquillaje
+Enjuague bucal
+Lubricantes para labios
+Gel/spray
+Loción hidratante
+Jabones corporales/tocados
+USO DOMESTICO:
+Suavizante de telas
+Ácido muriático
+Sosa caustica
+Aluminio
+Pilas
+Shampoo para ropa
+Servilletas
+Servitoallas
+Aromatizantes
+Cera para automóvil
+Cera para calzados
+Pastillas sanitarias
+Limpiadores líquidos
+Limpiadores para pisos
+Jabón de barra
+Cerillos
+Cloro/Blanqueador
+Cloro para ropa
+Jabón en barra
+Insecticidas
+Fibras limpiadoras
+Desinfectantes
+Detergentes para trastes
+Detergente para ropa
+HELADOS:
+Paletas/ Helados
+JARCERIA / PRODUCTOS DE LIMPIEZA:
+Veladoras/Velas
+Cepillo de plástico
+Vasos desechables
+Cinta adhesiva
+Cucharas de plástico
+Escobas/Trapeadores/Mechudos
+Trampas para ratas
+Tenedores de plástico
+Extensiones/Multicontacto
+Recogedor de metal/plástico
+Popotes
+Platos desechables
+Focos
+Fusibles
+Jergas/Franelas
+Matamoscas
+Pegamento
+Mecate/cuerda
+OTROS:
+Tarjetas telefónicas
+Recargas móviles
+Hielo
+Cigarros
